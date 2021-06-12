@@ -9,4 +9,4 @@ Each expression is produced at two levels of emotional intensity (normal, strong
 
 # No. of files
 
-Speech file (Audio_Speech_Actors_01-24.zip, 215 MB) contains 1440 files: 60 trials per actor x 24 actors = 1440.
+Data contains 1440 files: 60 trials per actor x 24 actors = 1440.
