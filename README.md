@@ -27,6 +27,6 @@ After extracting several sound features, with the emotion of the file as the tar
 5. Random Forest
 
 # Model Metrics - accuracy.
-The best model at predicting emotion was the Support Vector Machine (hyper parameters: "rbf" kernel, c=10),  at overall accuracy of 75%.
+The best model at predicting emotion was the Support Vector Machine (hyper parameters: "rbf" kernel, c=10),  at overall accuracy of 82%.
 
 
